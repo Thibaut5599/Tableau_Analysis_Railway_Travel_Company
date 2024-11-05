@@ -21,8 +21,9 @@ The team reported the following factors, in order of importance :
 ## Objective 
 Define the country that the company should choose to launch its startup.
 
-## Projetc Contents 
-- 
+## Project Contents 
+- Dataset : XLSX file (World_Development_Indicators.xlsx).
+- Tableau Story : Project presentation 
 
 ## Results and Conclusion
 After analyzing key factors such as railway usage, infrastructure extent, GDP per capita, and business environment, France stands out as the most promising country to establish the new rail travel company. With high passenger volume, extensive rail lines, a strong economy, and business-friendly conditions, France offers the ideal balance for growth. Its location also facilitates international expansion, and its status as a top tourist destination presents a lucrative market for rail travel.
