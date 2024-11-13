@@ -34,7 +34,7 @@ After analyzing key factors such as railway usage, infrastructure extent, GDP pe
 
 ## Usage
 - **Data analysis:** Open Story_RailwayTravelCompany.twbx with Tableau or open this story by clicking [here](https://public.tableau.com/views/Story_RailwayTravelCompany/Histoire1?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to see my analysis and understand why France is the best country to establish the new rail travel company.
-- **Data exploration:** Open Dashboard_RailwayTravelCompany.twbx with Tableau or open this dashboard by clicking [here](https://public.tableau.com/views/Dashboard_RailwayTravelCompany/Tableaudebord3?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to explore the data yourself.
+- **Data exploration:** Open Dashboard_RailwayTravelCompany.twbx with Tableau or open this dashboard by clicking [here](https://public.tableau.com/views/Dashboard_RailwayTravelCompany/InteractiveDashboard?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to explore the data yourself.
 
 ## Author
 Project designed by Tableau Learning Partner, carried out by Thibaut LANNERS.
