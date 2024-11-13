@@ -1,4 +1,4 @@
-# Tableau_Analysis_Railway_Travel_Company
+# Tableau Analysis Railway Travel Company
 
 This project was followed as part of the Coursera training [Tableau Business Intelligence Analyst Professional Certificate](https://www.coursera.org/professional-certificates/tableau-business-intelligence-analyst?) during the eighth course entitled "Communicating Data Insights with Tableau". It's a guided project whose main purpose is to do data analysis only with Tableau (from data preparation to reporting via a Tableau story).
 
